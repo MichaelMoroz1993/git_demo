@@ -5,3 +5,4 @@
 5 - OK
 6 - Master
 7 - GH connected
+8 - GH change
